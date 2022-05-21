@@ -6,6 +6,13 @@
 * 看书
 * 画画
 
+我的网站是    
+
+[百度网站]（https://baidu.com）
+
+![一张图片](1.png)
+
+
 ```javascript
 console.log('hello')
 ```
